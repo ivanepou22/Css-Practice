@@ -1,0 +1,90 @@
+.article-container{
+    margin: auto;
+}
+.art-element{
+    height: 50px;
+    background-color: violet;
+    width: 50%;
+    margin: 10px auto 0px auto;
+}
+
+.table-container, .item-container {
+    margin: auto;
+}
+table {
+    margin: auto;
+    width: 50%;
+    border: solid 1px gray;
+}
+td, th {
+    border: solid 1px gray;
+}
+ul {
+    margin: 20px auto 20px auto;
+    width: 15%;
+}
+/*
+.art-element:nth-last-child(2n + 2){
+    background-color: indigo;
+} */
+/* .art-element:nth-last-of-type(2){
+    background-color: gold;
+} */
+/* tr:nth-of-type(odd){
+    background-color: gray;
+} */
+/* li:nth-child(7), li:nth-child(9){
+    background-color: red;
+}
+li:first-child {
+    background-color: saddlebrown;
+}
+li:last-child {
+    background-color: slateblue;
+} */
+
+/* li:nth-child(2){
+background-color:  green;
+} */
+
+
+/* li:nth-of-type(2){
+    background-color: red;
+} */
+/* li:nth-last-of-type(3){
+background-color: red;
+} */
+/* ul li:first-child, li:last-child{
+     background-color: red;
+ }  */
+
+/* li:nth-child(7) {
+    background-color: red;
+} */
+
+/* li:nth-child(2n){
+    background-color: saddlebrown;
+} */
+
+/* Odd */
+/* li:nth-child(2n + 1){
+    background-color: green;
+} */
+
+/* Even */
+/* li:nth-child(2n + 2){
+    background-color: indigo;
+} */
+
+/* no specifications */
+/* main :nth-child(2n){
+    background-color: lawngreen;
+} */
+
+/* .art-element:nth-last-child(2n){
+    background-color: green;
+} */
+
+/* article:nth-last-of-type(7){
+    background-color: green;
+} */
